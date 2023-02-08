@@ -1,5 +1,8 @@
 # CS464-Introduction-to-Machine-Learning-Projects
 
+## Grades:
+* Project 1: 90/100
+* Project 2: 85/100
 ## Project 1: PCA and Logistic Regression
 
 In the first part of this project, PCA is applied on images for dimensionality reduction and they are reconstructed back. In the second part, a logistic regression model is trained on a CSV file to determine whether a plane is harmful or not.
